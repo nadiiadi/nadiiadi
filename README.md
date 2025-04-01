@@ -2,8 +2,49 @@
 
 ## I'm a beginner software tester and I want to show you what I've already learned and what I can do!
 
-Tools
+### Tools and Techniques
+![Static Badge](https://img.shields.io/badge/TestRail-004225?logo=TestRail)
+![Static Badge](https://img.shields.io/badge/Jira-004225?logo=Jira)
+![Static Badge](https://img.shields.io/badge/Trello-004225?logo=Trello)
+![Static Badge](https://img.shields.io/badge/Git-004225?logo=Git)
+![Static Badge](https://img.shields.io/badge/Postman(API)-004225?logo=Postman)
+![Static Badge](https://img.shields.io/badge/DBeaver(SQL)-004225?logo=DBeaver)
+![Static Badge](https://img.shields.io/badge/HTML&CSS-004225?logo=CSS)
+![Static Badge](https://img.shields.io/badge/JS-004225?logo=JavaScript)
+![Static Badge](https://img.shields.io/badge/XML-004225?logo=XML)
+![Static Badge](https://img.shields.io/badge/JSON-004225?logo=JSON)
 
-PET-PROJECTS
 
-Follow me
+![Static Badge](https://img.shields.io/badge/Traceability_Matrix-004225)
+![Static Badge](https://img.shields.io/badge/Check--list-004225)
+![Static Badge](https://img.shields.io/badge/Test_Cases-004225)
+![Static Badge](https://img.shields.io/badge/Bug_Reports-004225)
+![Static Badge](https://img.shields.io/badge/Test_Report-004225)
+![Static Badge](https://img.shields.io/badge/Test_Design_Techniques-004225)
+![Static Badge](https://img.shields.io/badge/Non--functional_Testing-004225)
+![Static Badge](https://img.shields.io/badge/Change--related_Testing-004225)
+![Static Badge](https://img.shields.io/badge/Static_Testing_Techniques-004225)
+![Static Badge](https://img.shields.io/badge/Test_Levels-004225)
+
+### PET-PROJECTS
+![Static Badge](https://img.shields.io/badge/MonoBank-004225)
+![Static Badge](https://img.shields.io/badge/JavaSimulator-004225)
+![Static Badge](https://img.shields.io/badge/MakeUp-004225)
+![Static Badge](https://img.shields.io/badge/Slack-004225)
+![Static Badge](https://img.shields.io/badge/Trello-004225)
+![Static Badge](https://img.shields.io/badge/TaskPro-004225)
+![Static Badge](https://img.shields.io/badge/Kyla-004225)
+![Static Badge](https://img.shields.io/badge/TestIO-004225)
+
+
+### Certificates and Resume
+![Static Badge](https://img.shields.io/badge/CV-004225)
+![Static Badge](https://img.shields.io/badge/English-004225)
+![Static Badge](https://img.shields.io/badge/GoIT-004225)
+![Static Badge](https://img.shields.io/badge/Master`s_Degree-004225)
+
+
+
+### Follow me
+![Static Badge](https://img.shields.io/badge/LinkedIn-004225)
+

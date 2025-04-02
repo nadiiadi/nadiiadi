@@ -46,5 +46,5 @@
 
 
 ### Follow me
-![Static Badge](https://img.shields.io/badge/LinkedIn-004225)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-004225)](www.linkedin.com/in/nadiia-prosiatnikova)
 

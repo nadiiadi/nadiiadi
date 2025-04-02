@@ -14,7 +14,6 @@
 ![Static Badge](https://img.shields.io/badge/XML-004225?logo=XML)
 ![Static Badge](https://img.shields.io/badge/JSON-004225?logo=JSON)
 
-
 ![Static Badge](https://img.shields.io/badge/Traceability_Matrix-004225)
 ![Static Badge](https://img.shields.io/badge/Check--list-004225)
 ![Static Badge](https://img.shields.io/badge/Test_Cases-004225)
@@ -36,17 +35,14 @@
 ![Static Badge](https://img.shields.io/badge/Kyla-004225)
 ![Static Badge](https://img.shields.io/badge/TestIO-004225)
 
-
 ### Certificates and Resume
 ![Static Badge](https://img.shields.io/badge/CV-004225)
 ![Static Badge](https://img.shields.io/badge/English-004225)
 ![Static Badge](https://img.shields.io/badge/GoIT-004225)
 ![Static Badge](https://img.shields.io/badge/Master`s_Degree-004225)
 
-
-
 ### Follow me
-[![Static Badge](https://img.shields.io/badge/LinkedIn-004225)](www.linkedin.com/in/nadiia-prosiatnikova)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-004225)](https://www.linkedin.com/in/nadiia-prosiatnikova/)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiiadi&show_icons=true&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
 

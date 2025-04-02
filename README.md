@@ -48,3 +48,5 @@
 ### Follow me
 [![Static Badge](https://img.shields.io/badge/LinkedIn-004225)](www.linkedin.com/in/nadiia-prosiatnikova)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiiadi&show_icons=true&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
+

@@ -2,7 +2,7 @@
 
 <div align="center">
 
-## I'm a beginner software tester and I want to show you what I've already learned and what I can do!
+# I'm a beginner software tester and I want to show you what I've already learned and what I can do!
 
 ### TOOLS&TECHNIQUES
 ![Static Badge](https://img.shields.io/badge/TestRail-004225?logo=TestRail)

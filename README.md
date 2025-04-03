@@ -26,7 +26,7 @@
 ![Static Badge](https://img.shields.io/badge/Change--related_Testing-004225)
 ![Static Badge](https://img.shields.io/badge/Static_Testing_Techniques-004225)
 ![Static Badge](https://img.shields.io/badge/Test_Levels-004225)
-
+#
 </div>
 
 ### PET-PROJECTS
@@ -50,6 +50,8 @@
 [![Static Badge](https://img.shields.io/badge/FaceBook-004225?logo=FaceBook)](https://www.facebook.com/profile.php?id=100009515894094&locale=uk_UA)
 
 <div align="center">
+
+# 
 
 [![Nadiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiiadi&show_icons=true&theme=shadow_green&rank_icon=github)](https://github.com/nadiiadi/github-readme-stats)
 

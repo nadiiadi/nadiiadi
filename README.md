@@ -1,8 +1,10 @@
 ![Header](https://github.com/nadiiadi/nadiiadi/blob/main/assets/background.jpg)
+
 <div align="center">
+
 ## I'm a beginner software tester and I want to show you what I've already learned and what I can do!
 
-### Tools and Techniques
+### TOOLS&TECHNIQUES
 ![Static Badge](https://img.shields.io/badge/TestRail-004225?logo=TestRail)
 ![Static Badge](https://img.shields.io/badge/Jira-004225?logo=Jira)
 ![Static Badge](https://img.shields.io/badge/Trello-004225?logo=Trello)
@@ -25,6 +27,8 @@
 ![Static Badge](https://img.shields.io/badge/Static_Testing_Techniques-004225)
 ![Static Badge](https://img.shields.io/badge/Test_Levels-004225)
 
+</div>
+
 ### PET-PROJECTS
 [![Static Badge](https://img.shields.io/badge/JavaSimulator-004225)](https://github.com/nadiiadi/nadiiadi/tree/main/Pet-projects/JavaSimulator)
 [![Static Badge](https://img.shields.io/badge/MonoBank-004225)](https://github.com/nadiiadi/nadiiadi/tree/main/Pet-projects/Monobank)
@@ -35,7 +39,7 @@
 [![Static Badge](https://img.shields.io/badge/Kyla-004225)](https://github.com/nadiiadi/nadiiadi/tree/main/Pet-projects/Kyla)
 [![Static Badge](https://img.shields.io/badge/Ringostat-004225)](https://github.com/nadiiadi/nadiiadi/tree/main/Pet-projects/Ringostat)
 
-### Certificates and Resume
+### CERTIFICATES&RESUME
 [![Static Badge](https://img.shields.io/badge/CV-004225)](https://github.com/nadiiadi/nadiiadi/blob/main/Certificates%20and%20Resume/CV/NP.CV.4.pdf)
 [![Static Badge](https://img.shields.io/badge/English-004225)](https://github.com/nadiiadi/nadiiadi/tree/main/Certificates%20and%20Resume/English)
 [![Static Badge](https://img.shields.io/badge/Master`s_Degree-004225)](https://github.com/nadiiadi/nadiiadi/blob/main/Certificates%20and%20Resume/Master%60s/Master's%20Diploma.pdf)
@@ -45,5 +49,8 @@
 [![Static Badge](https://img.shields.io/badge/LinkedIn-004225?logo=LinkedIn)](https://www.linkedin.com/in/nadiia-prosiatnikova/)
 [![Static Badge](https://img.shields.io/badge/FaceBook-004225?logo=FaceBook)](https://www.facebook.com/profile.php?id=100009515894094&locale=uk_UA)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiiadi&show_icons=true&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
+[![Nadiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiiadi&show_icons=true&theme=shadow_green&rank_icon=github)](https://github.com/nadiiadi/github-readme-stats)
+
+</div>

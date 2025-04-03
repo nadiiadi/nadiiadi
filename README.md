@@ -32,8 +32,8 @@
 [![Static Badge](https://img.shields.io/badge/Slack-004225)](https://github.com/nadiiadi/nadiiadi/tree/main/Pet-projects/Slack)
 [![Static Badge](https://img.shields.io/badge/Trello-004225)](https://github.com/nadiiadi/nadiiadi/tree/main/Pet-projects/Trello)
 [![Static Badge](https://img.shields.io/badge/TaskPro-004225)](https://github.com/nadiiadi/nadiiadi/tree/main/Pet-projects/TaskPro)
-[![Static Badge](https://img.shields.io/badge/Kyla-004225)]()
-[![Static Badge](https://img.shields.io/badge/TestIO-004225)]()
+[![Static Badge](https://img.shields.io/badge/Kyla-004225)](https://github.com/nadiiadi/nadiiadi/tree/main/Pet-projects/Kyla)
+[![Static Badge](https://img.shields.io/badge/Ringostat-004225)](https://github.com/nadiiadi/nadiiadi/tree/main/Pet-projects/Ringostat)
 
 ### Certificates and Resume
 [![Static Badge](https://img.shields.io/badge/CV-004225)](https://github.com/nadiiadi/nadiiadi/blob/main/Certificates%20and%20Resume/CV/NP.CV.4.pdf)

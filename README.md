@@ -40,10 +40,10 @@
 [![Static Badge](https://img.shields.io/badge/Ringostat-004225)](https://github.com/nadiiadi/nadiiadi/tree/main/Pet-projects/Ringostat)
 
 ### CERTIFICATES&RESUME
-[![Static Badge](https://img.shields.io/badge/CV-004225)](https://github.com/nadiiadi/nadiiadi/blob/main/Certificates%20and%20Resume/CV/NP.CV.4.pdf)
-[![Static Badge](https://img.shields.io/badge/English-004225)](https://github.com/nadiiadi/nadiiadi/tree/main/Certificates%20and%20Resume/English)
-[![Static Badge](https://img.shields.io/badge/Master`s_Degree-004225)](https://github.com/nadiiadi/nadiiadi/blob/main/Certificates%20and%20Resume/Master%60s/Master's%20Diploma.pdf)
-[![Static Badge](https://img.shields.io/badge/GoIT-004225)](https://github.com/nadiiadi/nadiiadi/blob/main/Certificates%20and%20Resume/GoIT/CertificatGoIT.pdf)
+[![Static Badge](https://img.shields.io/badge/CV-004225)](https://github.com/nadiiadi/nadiiadi/blob/main/Certificates_and_Resume/CV/NP.CV.4.pdf)
+[![Static Badge](https://img.shields.io/badge/English-004225)](https://github.com/nadiiadi/nadiiadi/tree/main/Certificates_and_Resume/English)
+[![Static Badge](https://img.shields.io/badge/Master`s_Degree-004225)](https://github.com/nadiiadi/nadiiadi/blob/main/Certificates_and_Resume/Masters/Master's%20Diploma.pdf)
+[![Static Badge](https://img.shields.io/badge/GoIT-004225)](https://github.com/nadiiadi/nadiiadi/blob/main/Certificates_and_Resume/GoIT/CertificatGoIT.pdf)
 
 ### Follow me
 [![Static Badge](https://img.shields.io/badge/LinkedIn-004225?logo=LinkedIn)](https://www.linkedin.com/in/nadiia-prosiatnikova/)

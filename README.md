@@ -42,7 +42,8 @@
 ![Static Badge](https://img.shields.io/badge/Master`s_Degree-004225)
 
 ### Follow me
-[![Static Badge](https://img.shields.io/badge/LinkedIn-004225)](https://www.linkedin.com/in/nadiia-prosiatnikova/)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-004225?logo=LinkedIn)](https://www.linkedin.com/in/nadiia-prosiatnikova/)
+[![Static Badge](https://img.shields.io/badge/FaceBook-004225?logo=FaceBook)](https://www.facebook.com/profile.php?id=100009515894094&locale=uk_UA)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiiadi&show_icons=true&theme=shadow_green)](https://github.com/anuraghazra/github-readme-stats)
 

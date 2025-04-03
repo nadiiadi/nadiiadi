@@ -53,6 +53,6 @@
 
 # 
 
-[![Nadiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiiadi&show_icons=true&theme=shadow_green&rank_icon=github)](https://github.com/nadiiadi/github-readme-stats)
+[![Nadiia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadiiadi&show_icons=true&theme=shadow_green&rank_icon=github&hide=prs,issues,contribs)](https://github.com/nadiiadi/github-readme-stats)
 
 </div>

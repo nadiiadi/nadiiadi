@@ -5,10 +5,10 @@
 # I'm a beginner software tester and I want to show you what I've already learned and what I can do!
 
 ### TOOLS&TECHNIQUES
-![Static Badge](https://img.shields.io/badge/TestRail-004225?logo=TestRail)
-![Static Badge](https://img.shields.io/badge/Jira-004225?logo=Jira)
+[![Static Badge](https://img.shields.io/badge/TestRail-004225?logo=TestRail)](https://github.com/nadiiadi/nadiiadi/tree/main/Tools_and_Techniques/TestRail)
+[![Static Badge](https://img.shields.io/badge/Jira-004225?logo=Jira)](https://github.com/nadiiadi/nadiiadi/tree/main/Tools_and_Techniques/Jira)
+[![Static Badge](https://img.shields.io/badge/Git-004225?logo=Git)](https://github.com/nadiiadi/GitTool/tree/8da6c042decb160efbc77bb6dc192fbf6448211e)
 ![Static Badge](https://img.shields.io/badge/Trello-004225?logo=Trello)
-![Static Badge](https://img.shields.io/badge/Git-004225?logo=Git)
 ![Static Badge](https://img.shields.io/badge/Postman(API)-004225?logo=Postman)
 ![Static Badge](https://img.shields.io/badge/DBeaver(SQL)-004225?logo=DBeaver)
 ![Static Badge](https://img.shields.io/badge/HTML&CSS-004225?logo=CSS)

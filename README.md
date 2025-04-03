@@ -37,7 +37,7 @@
 
 ### Certificates and Resume
 [![Static Badge](https://img.shields.io/badge/CV-004225)](https://github.com/nadiiadi/nadiiadi/blob/main/CV/NP.CV.4.pdf)
-![Static Badge](https://img.shields.io/badge/English-004225)
+[![Static Badge](https://img.shields.io/badge/English-004225)](https://github.com/nadiiadi/nadiiadi/tree/main/English)
 ![Static Badge](https://img.shields.io/badge/GoIT-004225)
 ![Static Badge](https://img.shields.io/badge/Master`s_Degree-004225)
 

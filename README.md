@@ -31,7 +31,7 @@
 [![Static Badge](https://img.shields.io/badge/MakeUp-004225)](https://github.com/nadiiadi/nadiiadi/tree/main/Pet-projects/MakeUp)
 [![Static Badge](https://img.shields.io/badge/Slack-004225)](https://github.com/nadiiadi/nadiiadi/tree/main/Pet-projects/Slack)
 [![Static Badge](https://img.shields.io/badge/Trello-004225)](https://github.com/nadiiadi/nadiiadi/tree/main/Pet-projects/Trello)
-[![Static Badge](https://img.shields.io/badge/TaskPro-004225)]()
+[![Static Badge](https://img.shields.io/badge/TaskPro-004225)](https://github.com/nadiiadi/nadiiadi/tree/main/Pet-projects/TaskPro)
 [![Static Badge](https://img.shields.io/badge/Kyla-004225)]()
 [![Static Badge](https://img.shields.io/badge/TestIO-004225)]()
 

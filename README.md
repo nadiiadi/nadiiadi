@@ -18,7 +18,7 @@
 
 [![Static Badge](https://img.shields.io/badge/Traceability_Matrix-013220)](https://github.com/nadiiadi/nadiiadi/blob/main/Tools_and_Techniques/TraceabilityMatrix/TraceabilityMatrix.pdf)
 [![Static Badge](https://img.shields.io/badge/Check--list-013220)](https://github.com/nadiiadi/nadiiadi/tree/main/Tools_and_Techniques/Check-list)
-![Static Badge](https://img.shields.io/badge/Test_Cases-ACB78E)
+[![Static Badge](https://img.shields.io/badge/Test_Cases-013220)](https://github.com/nadiiadi/nadiiadi/tree/main/Tools_and_Techniques/TestCases)
 [![Static Badge](https://img.shields.io/badge/Bug_Reports-013220)](https://github.com/nadiiadi/nadiiadi/tree/main/Tools_and_Techniques/BugReports)
 [![Static Badge](https://img.shields.io/badge/Test_Report-013220)](https://github.com/nadiiadi/nadiiadi/blob/main/Tools_and_Techniques/TestReport/TaskPro.TestReport.pdf)
 [![Static Badge](https://img.shields.io/badge/Test_Design_Techniques-013220)](https://github.com/nadiiadi/nadiiadi/tree/main/Tools_and_Techniques/TestDesignTechniques)

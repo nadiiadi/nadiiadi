@@ -4,3 +4,6 @@
 [submodule "Tools_and_Techniques/HTML_CSS/My_resume"]
 	path = Tools_and_Techniques/HTML_CSS/My_resume
 	url = https://github.com/nadiiadi/resume.git
+[submodule "Tools_and_Techniques/HTML_CSS/Banderoguz"]
+	path = Tools_and_Techniques/HTML_CSS/Banderoguz
+	url = https://github.com/nadiiadi/banderoguz.git

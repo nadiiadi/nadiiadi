@@ -1,3 +1,6 @@
 [submodule "Tools_and_Techniques/GitTool"]
 	path = Tools_and_Techniques/GitTool
 	url = https://github.com/nadiiadi/GitTool.git
+[submodule "Tools_and_Techniques/HTML_CSS/My_resume"]
+	path = Tools_and_Techniques/HTML_CSS/My_resume
+	url = https://github.com/nadiiadi/resume.git

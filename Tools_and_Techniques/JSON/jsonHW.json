@@ -1,0 +1,64 @@
+{
+  "friends": [
+    {
+      "id": 1,
+      "name": "Monica Geller",
+      "address": {
+        "city": "New York",
+        "street": "Grove Street",
+        "building": 495,
+        "appatment": 20
+      },
+      "contacts": {
+        "phoneNumber": 4563456745,
+        "e-mail": "monica.geller@gmail.com",
+        "telegramNickname": "@monica.geller"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Phoebe Buffay",
+      "address": {
+        "city": "New York",
+        "street": "Grove Street",
+        "building": 495,
+        "appatment": 20
+      },
+      "contacts": {
+        "phoneNumber": 8646245623,
+        "e-mail": "regina.phalange@gmail.com",
+        "telegramNickname": "@regina.phalange"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Joey Tribbiani",
+      "address": {
+        "city": "New York",
+        "street": "Grove Street",
+        "building": 495,
+        "appatment": 21
+      },
+      "contacts": {
+        "phoneNumber": 1235323567,
+        "e-mail": "joey.tribbiani@gmail.com",
+        "telegramNickname": "@Dr.DrakeRamoray"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Chandler Bing",
+      "address": {
+        "city": "New York",
+        "street": "Grove Street",
+        "building": 495,
+        "appatment": 21
+      },
+      "contacts": {
+        "phoneNumber": 2352463434,
+        "e-mail": "chandler.bing@gmail.com",
+        "telegramNickname": "@chandler.bing"
+      }
+    }
+  ]
+}

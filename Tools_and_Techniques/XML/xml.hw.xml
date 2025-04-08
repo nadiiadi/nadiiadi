@@ -1,0 +1,62 @@
+<friends>
+	<friend>
+		<id>1</id>
+		<name>Monica Geller</name>
+		<address>
+			<city>New York</city>
+			<street>Grove Street</street>
+			<building>495</building>
+			<appatment>20</appatment>
+		</address>
+		<contacts>
+			<phoneNumber>4563456745</phoneNumber>
+			<e-mail>monica.geller@gmail.com</e-mail>
+			<telegramNickname>@monica.geller</telegramNickname>
+		</contacts>
+	</friend>
+	<friend>
+		<id>2</id>
+		<name>Phoebe Buffay</name>
+		<address>
+			<city>New York</city>
+			<street>Grove Street</street>
+			<building>495</building>
+			<appatment>20</appatment>
+		</address>
+		<contacts>
+			<phoneNumber>0646245623</phoneNumber>
+			<e-mail>regina.phalange@gmail.com</e-mail>
+			<telegramNickname>@regina.phalange</telegramNickname>
+		</contacts>
+	</friend>
+	<friend>
+		<id>3</id>
+		<name>Joey Tribbiani</name>
+		<address>
+			<city>New York</city>
+			<street>Grove Street</street>
+			<building>495</building>
+			<appatment>21</appatment>
+		</address>
+		<contacts>
+			<phoneNumber>1235323567</phoneNumber>
+			<e-mail>joey.tribbiani@gmail.com</e-mail>
+			<telegramNickname>@Dr.DrakeRamoray</telegramNickname>
+		</contacts>
+	</friend>
+	<friend>
+		<id>4</id>
+		<name>Chandler Bing</name>
+		<address>
+			<city>New York</city>
+			<street>Grove Street</street>
+			<building>495</building>
+			<appatment>21</appatment>
+		</address>
+		<contacts>
+			<phoneNumber>2352463434</phoneNumber>
+			<e-mail>chandler.bing@gmail.com</e-mail>
+			<telegramNickname>@chandler.bing</telegramNickname>
+		</contacts>
+	</friend>
+</friends>

@@ -16,16 +16,16 @@
 [![Static Badge](https://img.shields.io/badge/JS-013220?logo=JavaScript)](https://github.com/nadiiadi/nadiiadi/blob/main/Tools_and_Techniques/JS/JS.Autochecks.pdf)
 ![Static Badge](https://img.shields.io/badge/Trello-ACB78E?logo=Trello)
 
-![Static Badge](https://img.shields.io/badge/Traceability_Matrix-013220)
-![Static Badge](https://img.shields.io/badge/Check--list-013220)
-![Static Badge](https://img.shields.io/badge/Test_Cases-013220)
-![Static Badge](https://img.shields.io/badge/Bug_Reports-013220)
-![Static Badge](https://img.shields.io/badge/Test_Report-013220)
-![Static Badge](https://img.shields.io/badge/Test_Design_Techniques-013220)
-![Static Badge](https://img.shields.io/badge/Non--functional_Testing-013220)
-![Static Badge](https://img.shields.io/badge/Change--related_Testing-013220)
-![Static Badge](https://img.shields.io/badge/Static_Testing_Techniques-013220)
-![Static Badge](https://img.shields.io/badge/Test_Levels-013220)
+[![Static Badge](https://img.shields.io/badge/Traceability_Matrix-013220)](https://github.com/nadiiadi/nadiiadi/blob/main/Tools_and_Techniques/TraceabilityMatrix/TraceabilityMatrix.pdf)
+[![Static Badge](https://img.shields.io/badge/Check--list-013220)](https://github.com/nadiiadi/nadiiadi/tree/main/Tools_and_Techniques/Check-list)
+![Static Badge](https://img.shields.io/badge/Test_Cases-ACB78E)
+[![Static Badge](https://img.shields.io/badge/Bug_Reports-013220)](https://github.com/nadiiadi/nadiiadi/tree/main/Tools_and_Techniques/BugReports)
+[![Static Badge](https://img.shields.io/badge/Test_Report-013220)](https://github.com/nadiiadi/nadiiadi/blob/main/Tools_and_Techniques/TestReport/TaskPro.TestReport.pdf)
+[![Static Badge](https://img.shields.io/badge/Test_Design_Techniques-013220)](https://github.com/nadiiadi/nadiiadi/tree/main/Tools_and_Techniques/TestDesignTechniques)
+![Static Badge](https://img.shields.io/badge/Non--functional_Testing-ACB78E)
+[![Static Badge](https://img.shields.io/badge/Change--related_Testing-013220)](https://github.com/nadiiadi/nadiiadi/tree/main/Tools_and_Techniques/ChangeRelatedTesting)
+[![Static Badge](https://img.shields.io/badge/Static_Testing_Techniques-013220)](https://github.com/nadiiadi/nadiiadi/tree/main/Tools_and_Techniques/StaticTesting)
+![Static Badge](https://img.shields.io/badge/Test_Levels-ACB78E)
 #
 </div>
 
